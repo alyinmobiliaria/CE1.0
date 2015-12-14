@@ -1,7 +1,7 @@
 {
-  "name": "ce",
+  "name": "cardonestereo",
   "version": "1.0.0",
-  "description": "Aplicación web dedicada a informar y entretener, sobre el universo muscial de Colombia y el mundo.",
+  "description": "Medio de información y entretenimiento del universo musical de Colombia y el mundo.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,10 +11,10 @@
     "url": "git+https://github.com/alyinmobiliaria/CE1.0.git"
   },
   "keywords": [
-    "EL4400Jfriki"
+    "@EL4400J"
   ],
-  "author": "JORGE MARIO CARRILLO LOPEZ @EL4400J",
-  "license": "Artistic-2.0",
+  "author": "JORGE MARIO CARRILLO LOPEZ @EL4400J - cardonestereo@gmail.com",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/alyinmobiliaria/CE1.0/issues"
   },
