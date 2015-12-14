@@ -1,0 +1,22 @@
+{
+  "name": "ce",
+  "version": "1.0.0",
+  "description": "Aplicación web dedicada a informar y entretener, sobre el universo muscial de Colombia y el mundo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alyinmobiliaria/CE1.0.git"
+  },
+  "keywords": [
+    "EL4400Jfriki"
+  ],
+  "author": "JORGE MARIO CARRILLO LOPEZ @EL4400J",
+  "license": "Artistic-2.0",
+  "bugs": {
+    "url": "https://github.com/alyinmobiliaria/CE1.0/issues"
+  },
+  "homepage": "https://github.com/alyinmobiliaria/CE1.0#readme"
+}
